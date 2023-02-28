@@ -1,1 +1,2 @@
 # Bootstrap-website
+The objective of this task is to create an online shopping page with 10 products displayed on the page. The page should use the grid system and have responsive images that change when the user moves their mouse over them. Each product should display its name and price, and there should be a button under each product to "buy" it. The page should also have a horizontal form in the footer that gets the customer's contact details, and a small company logo next to the form. The form and the buy button are not functional yet.
