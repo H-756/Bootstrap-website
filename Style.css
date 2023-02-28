@@ -1,0 +1,41 @@
+.outline {
+    outline: 3px solid black;
+    background-color: black;
+    
+}
+
+.bc {
+    background-color: white;
+}
+
+.form {
+    color: white;
+}
+
+.row {
+    min-height: 350px;
+    color: red;
+    outline: 3px solid white;
+    width: 101%;
+}
+.btn-success{
+    
+    color: white;
+}
+
+.text-center{
+    color: white;
+    background-color: black;
+    
+}
+
+.boxline {
+    outline: 3px solid black;
+    background-color: white;
+}
+.form{
+    background-color: black;
+    color: white;
+    
+}
+
